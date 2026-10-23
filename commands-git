@@ -3,3 +3,5 @@ git clone
 git add
 git commit -m "shallreportetc"
 git push
+
+git pull
